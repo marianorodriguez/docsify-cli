@@ -124,8 +124,6 @@
 
 ### Features
 
-* add start command ([#14](https://github.com/QingWei-Li/docsify-cli/issues/14)) ([feefcce](https://github.com/QingWei-Li/docsify-cli/commit/feefcce))
-
 
 
 <a name="3.3.2"></a>
